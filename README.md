@@ -95,7 +95,7 @@ The scores based on spending for the schools remained unchanged, with the slight
 
 #### Scores by school size
 
-
+Removal of the ninth grade test scores did not impact the test scores by school size. Thomas High School is considered a medium school, which remains unchanged which is apparent in the images below. 
 
 ##### Before:
 <img width="760" alt="Before School Size" src="https://user-images.githubusercontent.com/79999761/114325113-4ae97680-9ae3-11eb-91a4-a52e9bf6cf49.png">
