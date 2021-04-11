@@ -76,42 +76,38 @@ The scores by grade were left unchanged for grades 10-12. The only change was to
 
 #### Reading Scores by Grade: 
 
-##### Before: 
-
-##### After: 
-
-<img width="339" alt="Reading Scores by Grade " src="https://user-images.githubusercontent.com/79999761/114324359-600fd680-9ade-11eb-9288-ef2302fc984d.png">
+<img width="339" alt="Reading Scores by Grade " src="https://user-images.githubusercontent.com/79999761/114324857-7a977f00-9ae1-11eb-95d8-a9d75d2408ec.png">
 
 #### Scores by school spending
 
 ##### Before
+<img width="1010" alt="Before Spending Summary " src="https://user-images.githubusercontent.com/79999761/114325102-386f3d00-9ae3-11eb-9dfa-06e3aec86ce8.png">
+
+<img width="845" alt="Before Spending Per Student " src="https://user-images.githubusercontent.com/79999761/114325103-3c02c400-9ae3-11eb-9a60-551c1e7a496e.png">
+
 
 ##### After
+<img width="1016" alt="Summary by Spending Ranges " src="https://user-images.githubusercontent.com/79999761/114324867-926f0300-9ae1-11eb-8967-5a308eb0de47.png">
 
-<img width="1016" alt="Summary by Spending Ranges " src="https://user-images.githubusercontent.com/79999761/114324644-1d4efe00-9ae0-11eb-981d-3b3e39641c19.png">
-
-
-<img width="821" alt="Spending Ranges by Student " src="https://user-images.githubusercontent.com/79999761/114324632-0dcfb500-9ae0-11eb-88c1-89f66e2a16cd.png">
-
+<img width="821" alt="Spending Ranges by Student " src="https://user-images.githubusercontent.com/79999761/114324876-9f8bf200-9ae1-11eb-969b-4e2e01d23ee1.png">
 
 #### Scores by school size
 
 ##### Before 
+<img width="760" alt="Before School Size" src="https://user-images.githubusercontent.com/79999761/114325113-4ae97680-9ae3-11eb-91a4-a52e9bf6cf49.png">
+
 
 ##### After 
-
 <img width="778" alt="Scores by School Size" src="https://user-images.githubusercontent.com/79999761/114324617-f98bb800-9adf-11eb-930c-e1caa4fdb8ee.png">
-
 
 #### Scores by school type
 
-##### Before 
 
+##### Before 
+<img width="733" alt="Before School Type " src="https://user-images.githubusercontent.com/79999761/114325150-70768000-9ae3-11eb-9190-3dc049b6e954.png">
 
 ##### After 
-
-<img width="715" alt="Scores by School Type " src="https://user-images.githubusercontent.com/79999761/114324611-ec6ec900-9adf-11eb-883e-cf7f6bcb7d1c.png">
-
+<img width="715" alt="Scores by School Type " src="https://user-images.githubusercontent.com/79999761/114324937-01e4f280-9ae2-11eb-8687-2337dcd7357c.png">
 
 ## Summary 
 
