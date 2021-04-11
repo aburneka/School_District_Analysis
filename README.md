@@ -41,11 +41,11 @@ After removing the 9th grade test scores for Thomas High School from the dataset
 As seen in the images below, the data per school, was only slightly changed with the removal of the 9th grade test scores for Thomas High School. The only scores that were changed were those for Thomas High School. 
 
 Changes in school summary: 
-* Thomas High School overall passing percentage decreased by approximately 0.32% 
-* Thomas High School reading percentage scores decreased by approximately 0.29% 
-* Thomas High School math percentage scores decreased by approximately 0.08% 
-* Thomas High School average math score xx by xx
-* Thomas High School average reading score xx by xx
+* Thomas High School overall passing percentage **decreased by approximately 0.32%** 
+* Thomas High School reading percentage scores **decreased by approximately 0.29%**
+* Thomas High School math percentage scores **decreased by approximately 0.08%** 
+* Thomas High School average math score **xx by xx**
+* Thomas High School average reading score **xx by xx**
 
 I also noticed that even though we removedd the 9th grade test scores from the data that the total student count for Thomas High School did not change from 1,635 students. Initially I thought that there must be an error in the code that was used to replace the data for Thomas High School (Steps 12-14). However we only changed the overall, reading and math percentages. Leaving the other data untouched was a stated objective in the project background. 
 
