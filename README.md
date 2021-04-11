@@ -1,4 +1,3 @@
-<img width="827" alt="School Summary Before " src="https://user-images.githubusercontent.com/79999761/114322658-423e7380-9ad6-11eb-8cef-9824a344318a.png">
 # School District Analysis
 ## Project Overview 
 
