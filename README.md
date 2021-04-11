@@ -74,11 +74,19 @@ The scores by grade were left unchanged for grades 10-12. The only change was to
 
 <img width="312" alt="Math scores by grade" src="https://user-images.githubusercontent.com/79999761/114324274-12936980-9ade-11eb-8d85-993d2a4708f5.png">
 
-##### Reading Scores by Grade: 
+#### Reading Scores by Grade: 
+
+##### Before: 
+
+##### After: 
 
 <img width="339" alt="Reading Scores by Grade " src="https://user-images.githubusercontent.com/79999761/114324359-600fd680-9ade-11eb-9288-ef2302fc984d.png">
 
 #### Scores by school spending
+
+##### Before
+
+##### After
 
 <img width="1016" alt="Summary by Spending Ranges " src="https://user-images.githubusercontent.com/79999761/114324644-1d4efe00-9ae0-11eb-981d-3b3e39641c19.png">
 
@@ -88,10 +96,19 @@ The scores by grade were left unchanged for grades 10-12. The only change was to
 
 #### Scores by school size
 
+##### Before 
+
+##### After 
+
 <img width="778" alt="Scores by School Size" src="https://user-images.githubusercontent.com/79999761/114324617-f98bb800-9adf-11eb-930c-e1caa4fdb8ee.png">
 
 
 #### Scores by school type
+
+##### Before 
+
+
+##### After 
 
 <img width="715" alt="Scores by School Type " src="https://user-images.githubusercontent.com/79999761/114324611-ec6ec900-9adf-11eb-883e-cf7f6bcb7d1c.png">
 
