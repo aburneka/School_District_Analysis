@@ -1,3 +1,4 @@
+<img width="827" alt="School Summary Before " src="https://user-images.githubusercontent.com/79999761/114322658-423e7380-9ad6-11eb-8cef-9824a344318a.png">
 # School District Analysis
 ## Project Overview 
 
@@ -38,7 +39,17 @@ After removing the 9th grade test scores for Thomas High School from the dataset
 
 ### School Summary Results 
 
-#### School Summary Before: 
+As seen in the images below, the data per school, was only slightly changed with the removal of the 9th grade test scores for Thomas High School. The only scores that were changed were thos for Thomas High School. 
+
+Changes in school summary: 
+* Thomas High School overall passing percentage decreased by approximately 0.32% 
+* Thomas High School reading percentage scores decreased by approximately 0.29% 
+* Thomas High School math percentage scores decreased by approximately 0.08% 
+* 
+
+#### School Summary Before:
+
+<img width="827" alt="School Summary Before " src="https://user-images.githubusercontent.com/79999761/114322669-53878000-9ad6-11eb-8583-9f5a42c96e91.png">
 
 #### School Summary After:  
 
