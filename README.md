@@ -80,35 +80,37 @@ The scores by grade were left unchanged for grades 10-12. The only change was to
 
 #### Scores by school spending
 
-The scores based on school spending remained unchanged 
+The scores based on spending for the schools remained unchanged, with the slight changes to Thomas High School that are outlined above. Thomas High School is in  the $630 - $644 for the Spending range per student, which remains unchanged when the numbers are rounded. 
 
-##### Before
+##### Before:
 <img width="1010" alt="Before Spending Summary " src="https://user-images.githubusercontent.com/79999761/114325102-386f3d00-9ae3-11eb-9dfa-06e3aec86ce8.png">
 
 <img width="845" alt="Before Spending Per Student " src="https://user-images.githubusercontent.com/79999761/114325103-3c02c400-9ae3-11eb-9a60-551c1e7a496e.png">
 
 
-##### After
+##### After:
 <img width="1016" alt="Summary by Spending Ranges " src="https://user-images.githubusercontent.com/79999761/114324867-926f0300-9ae1-11eb-8967-5a308eb0de47.png">
 
 <img width="821" alt="Spending Ranges by Student " src="https://user-images.githubusercontent.com/79999761/114324876-9f8bf200-9ae1-11eb-969b-4e2e01d23ee1.png">
 
 #### Scores by school size
 
-##### Before 
+
+
+##### Before:
 <img width="760" alt="Before School Size" src="https://user-images.githubusercontent.com/79999761/114325113-4ae97680-9ae3-11eb-91a4-a52e9bf6cf49.png">
 
-
-##### After 
+##### After: 
 <img width="778" alt="Scores by School Size" src="https://user-images.githubusercontent.com/79999761/114324617-f98bb800-9adf-11eb-930c-e1caa4fdb8ee.png">
 
 #### Scores by school type
 
+Removal of the ninth grade test scores did not impact the test scores by school type. 
 
-##### Before 
+##### Before:
 <img width="733" alt="Before School Type " src="https://user-images.githubusercontent.com/79999761/114325150-70768000-9ae3-11eb-9190-3dc049b6e954.png">
 
-##### After 
+##### After: 
 <img width="715" alt="Scores by School Type " src="https://user-images.githubusercontent.com/79999761/114324937-01e4f280-9ae2-11eb-8687-2337dcd7357c.png">
 
 ## Summary 
