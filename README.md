@@ -26,14 +26,28 @@ The following data has been provided by the school board:
 
 ### District Summary Results  
 
-After removing the 9th grade test scores for Thomas High School from the dataset the disctrict summary results were not impacted in a meaningful way. Below you can see the district summary before the THS test results were removed and after: 
+After removing the 9th grade test scores for Thomas High School from the dataset, the disctrict summary results were not impacted in a meaningful way. Below you can see the district summary before the THS test results were removed and after: 
+
+#### Before 
+
+<img width="928" alt="Screen Shot 2021-04-11 at 2 33 51 PM" src="https://user-images.githubusercontent.com/79999761/114322062-18378200-9ad3-11eb-8492-2e7220495adc.png">
+
+#### After 
 
 <img width="786" alt="District Summary After " src="https://user-images.githubusercontent.com/79999761/114322002-ca227e80-9ad2-11eb-92ff-a4e5089e7f57.png">
 
+### School Summary Results 
+
+#### School Summary Before: 
+
+#### School Summary After:  
+
+<img width="1014" alt="School Summary After " src="https://user-images.githubusercontent.com/79999761/114322434-18d11800-9ad5-11eb-9dff-bebd64d6bf7f.png">
 
 
 
-How is the school summary affected?
+
+### Thomas High School Performance 
 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 How does replacing the ninth-grade scores affect the following:
 Math and reading scores by grade
