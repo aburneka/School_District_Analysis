@@ -44,8 +44,8 @@ Changes in school summary:
 * Thomas High School overall passing percentage **decreased by approximately 0.32%** 
 * Thomas High School reading percentage scores **decreased by approximately 0.29%**
 * Thomas High School math percentage scores **decreased by approximately 0.08%** 
-* Thomas High School average math score **decreased by 0.5%**
-* Thomas High School average reading score **increased by 0.0%**
+* Thomas High School average math score **decreased by approximately 0.5%**
+* Thomas High School average reading score **increased by approximately 0.05%**
 
 I also noticed that even though we removedd the 9th grade test scores from the data that the total student count for Thomas High School did not change from 1,635 students. Initially I thought that there must be an error in the code that was used to replace the data for Thomas High School (Steps 12-14). However we only changed the overall, reading and math percentages. Leaving the other data untouched was a stated objective in the project background. 
 
