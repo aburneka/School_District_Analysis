@@ -38,13 +38,16 @@ After removing the 9th grade test scores for Thomas High School from the dataset
 
 ### School Summary Results 
 
-As seen in the images below, the data per school, was only slightly changed with the removal of the 9th grade test scores for Thomas High School. The only scores that were changed were thos for Thomas High School. 
+As seen in the images below, the data per school, was only slightly changed with the removal of the 9th grade test scores for Thomas High School. The only scores that were changed were those for Thomas High School. 
 
 Changes in school summary: 
 * Thomas High School overall passing percentage decreased by approximately 0.32% 
 * Thomas High School reading percentage scores decreased by approximately 0.29% 
 * Thomas High School math percentage scores decreased by approximately 0.08% 
-* 
+* Thomas High School average math score xx by xx
+* Thomas High School average reading score xx by xx
+
+I also noticed that even though we removedd the 9th grade test scores from the data that the total student count for Thomas High School did not change from 1,635 students. Initially I thought that there must be an error in the code that was used to replace the data for Thomas High School (Steps 12-14). However we only changed the overall, reading and math percentages. Leaving the other data untouched was a stated objective in the project background. 
 
 #### School Summary Before:
 
@@ -55,15 +58,44 @@ Changes in school summary:
 <img width="1014" alt="School Summary After " src="https://user-images.githubusercontent.com/79999761/114322434-18d11800-9ad5-11eb-9dff-bebd64d6bf7f.png">
 
 
-
-
 ### Thomas High School Performance 
-How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-How does replacing the ninth-grade scores affect the following:
-Math and reading scores by grade
-Scores by school spending
-Scores by school size
-Scores by school type
+
+Replacing the ninth graders' math and reading scores does not change Thomas High School's performance relative to other schools. It still remains the second top performing school for, overall passing percentage, out of the 15 city schools included in the analysis, which can be seen in the image below. 
+
+<img width="977" alt="Screen Shot 2021-04-11 at 2 44 19 PM" src="https://user-images.githubusercontent.com/79999761/114323409-ee358e00-9ad9-11eb-9d0f-5bbd8b903894.png">
+
+### Impact on Other Metrics
+
+#### Scores by Grade
+
+The scores by grade were left unchanged for grades 10-12. The only change was to the 9th grade test scores, which now show nan. 
+
+##### Math scores by Grade: 
+
+<img width="312" alt="Math scores by grade" src="https://user-images.githubusercontent.com/79999761/114324274-12936980-9ade-11eb-8d85-993d2a4708f5.png">
+
+##### Reading Scores by Grade: 
+
+<img width="339" alt="Reading Scores by Grade " src="https://user-images.githubusercontent.com/79999761/114324359-600fd680-9ade-11eb-9288-ef2302fc984d.png">
+
+#### Scores by school spending
+
+<img width="1016" alt="Summary by Spending Ranges " src="https://user-images.githubusercontent.com/79999761/114324644-1d4efe00-9ae0-11eb-981d-3b3e39641c19.png">
+
+
+<img width="821" alt="Spending Ranges by Student " src="https://user-images.githubusercontent.com/79999761/114324632-0dcfb500-9ae0-11eb-88c1-89f66e2a16cd.png">
+
+
+#### Scores by school size
+
+<img width="778" alt="Scores by School Size" src="https://user-images.githubusercontent.com/79999761/114324617-f98bb800-9adf-11eb-930c-e1caa4fdb8ee.png">
+
+
+#### Scores by school type
+
+<img width="715" alt="Scores by School Type " src="https://user-images.githubusercontent.com/79999761/114324611-ec6ec900-9adf-11eb-883e-cf7f6bcb7d1c.png">
+
 
 ## Summary 
-## Conclusion 
+
+Replacing the Thomas High School 9th graders' test scores does not impact the data in a meaningful way. I can conclude that there is no evidence of academic dishonesty among the THS 9th grade class. 
