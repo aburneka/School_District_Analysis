@@ -80,6 +80,8 @@ The scores by grade were left unchanged for grades 10-12. The only change was to
 
 #### Scores by school spending
 
+The scores based on school spending remained unchanged 
+
 ##### Before
 <img width="1010" alt="Before Spending Summary " src="https://user-images.githubusercontent.com/79999761/114325102-386f3d00-9ae3-11eb-9dfa-06e3aec86ce8.png">
 
@@ -111,4 +113,4 @@ The scores by grade were left unchanged for grades 10-12. The only change was to
 
 ## Summary 
 
-Replacing the Thomas High School 9th graders' test scores does not impact the data in a meaningful way. I can conclude that there is no evidence of academic dishonesty among the THS 9th grade class. 
+Replacing the Thomas High School 9th graders' test scores does not impact the data in a meaningful way. I can conclude that there is no evidence of academic dishonesty among the THS 9th grade class within the disctrict. The changes that occured in the given metrics for Thomas High School were so minor that they would not be accounted for if we were to round or format the averages and percentages. 
